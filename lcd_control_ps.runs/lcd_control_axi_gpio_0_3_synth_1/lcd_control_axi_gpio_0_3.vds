@@ -1,0 +1,34 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Dec 21 16:35:02 2024
+# Process ID: 42352
+# Current directory: C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1
+# Command line: vivado.exe -log lcd_control_axi_gpio_0_3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lcd_control_axi_gpio_0_3.tcl
+# Log file: C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1/lcd_control_axi_gpio_0_3.vds
+# Journal file: C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1\vivado.jou
+# Running On        :LAPTOP-CVEL9Q4C
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :AMD Ryzen 5 4600HS with Radeon Graphics         
+# CPU Frequency     :2994 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :16556 MB
+# Swap memory       :9663 MB
+# Total Virtual     :26220 MB
+# Available Virtual :6750 MB
+#-----------------------------------------------------------
+source lcd_control_axi_gpio_0_3.tcl -notrace
+create_project: Time (s): cpu = 00:00:07 ; elapsed = 00:00:08 . Memory (MB): peak = 518.969 ; gain = 204.719
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: lcd_control_axi_gpio_0_3
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry b984c15bfb1eb3ee to dir: C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.cache/ip/2024.1/b/9/b984c15bfb1eb3ee/lcd_control_axi_gpio_0_2.dcp to C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1/lcd_control_axi_gpio_0_3.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.cache/ip/2024.1/b/9/b984c15bfb1eb3ee/lcd_control_axi_gpio_0_2_sim_netlist.v to C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1/lcd_control_axi_gpio_0_3_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.cache/ip/2024.1/b/9/b984c15bfb1eb3ee/lcd_control_axi_gpio_0_2_sim_netlist.vhdl to C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1/lcd_control_axi_gpio_0_3_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.cache/ip/2024.1/b/9/b984c15bfb1eb3ee/lcd_control_axi_gpio_0_2_stub.v to C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1/lcd_control_axi_gpio_0_3_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.cache/ip/2024.1/b/9/b984c15bfb1eb3ee/lcd_control_axi_gpio_0_2_stub.vhdl to C:/Users/prana/Documents/Projects/FPGA-Soc/lcd_control_ps/lcd_control_ps.runs/lcd_control_axi_gpio_0_3_synth_1/lcd_control_axi_gpio_0_3_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP lcd_control_axi_gpio_0_3, cache-ID = b984c15bfb1eb3ee.
+INFO: [Common 17-206] Exiting Vivado at Sat Dec 21 16:35:15 2024...
